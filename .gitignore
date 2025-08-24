@@ -1,0 +1,51 @@
+# Ignorar configuración de usuario y de IDE
+Aprendizaje/**/.vs/
+Aprendizaje/**/.idea/
+Aprendizaje/**/.vscode/
+
+# Ignorar salidas de compilación
+Aprendizaje/**/bin/
+Aprendizaje/**/obj/
+Aprendizaje/**/out/
+
+# Archivos temporales y de logs
+Aprendizaje/**/*.user
+Aprendizaje/**/*.suo
+Aprendizaje/**/*.userosscache
+Aprendizaje/**/*.sln.docstates
+Aprendizaje/**/*.log
+Aprendizaje/**/*.tlog
+Aprendizaje/**/*.tmp
+Aprendizaje/**/*.temp
+
+# Archivos de dependencias y paquetes
+Aprendizaje/**/packages/
+Aprendizaje/**/node_modules/
+Aprendizaje/**/wwwroot/lib/
+
+# Archivos de sistema
+Aprendizaje/**/.DS_Store
+Aprendizaje/**/Thumbs.db
+
+# Configuración de Rider, JetBrains, VS Code
+Aprendizaje/**/.idea/
+Aprendizaje/**/.history/
+
+# Archivos de publicación MAUI
+Aprendizaje/**/*.apk
+Aprendizaje/**/*.aab
+Aprendizaje/**/*.ipa
+Aprendizaje/**/*.app
+Aprendizaje/**/*.msix
+Aprendizaje/**/*.msixbundle
+Aprendizaje/**/*.appx
+Aprendizaje/**/*.appxbundle
+
+# Archivos de certificados o claves
+Aprendizaje/**/*.pfx
+Aprendizaje/**/*.keystore
+
+# Archivos de usuario de simuladores/emuladores
+Aprendizaje/**/.android/
+Aprendizaje/**/.ios/
+
