@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/k.cueva.almendrales/Desktop/MAUI/Aprendizaje/Dispatcher/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/k.cueva.almendrales/Desktop/MAUI/Aprendizaje/Dispatcher/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/Dispatcher.app
